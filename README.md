@@ -21,7 +21,7 @@ star-lab-site/
 └── README.md
 ```
 
-현재 공개 문의 주소는 **wonbyeori0529@gmail.com**입니다. 홈과 개인정보처리방침에 표시되며, 클릭하면 이메일 작성 프로그램이 열립니다. 이 사이트 자체에 메일함이나 문의 수신 서버가 생기는 것은 아닙니다. 메일은 해당 Gmail 계정으로 도착합니다.
+현재 공개 문의 주소는 **one.starlab.kr@gmail.com**입니다. 홈과 개인정보처리방침에 표시되며, 클릭하면 이메일 작성 프로그램이 열립니다. 이 사이트 자체에 메일함이나 문의 수신 서버가 생기는 것은 아닙니다. 메일은 해당 Gmail 계정으로 도착합니다.
 
 집 주소, 개인 전화번호, 대표자 실명, 사업자등록번호, D-U-N-S 번호, 기존 앱 소스, API 키는 포함하지 않았습니다. Google Play 또는 사업자 관련 기관에 제출하는 정보와 이 공개 사이트에 표시하는 정보는 별도로 관리하세요.
 
@@ -106,7 +106,7 @@ Search Console 소유권 확인과 Play Console의 웹사이트 연결은 별도
 
 | 변경 내용 | 수정 위치 |
 | --- | --- |
-| 공개 문의 이메일 | `index.html`, `privacy.html`, 이 `README.md`의 `wonbyeori0529@gmail.com` 전체. HTML의 `mailto:` 주소와 표시 주소를 함께 수정 |
+| 공개 문의 이메일 | `index.html`, `privacy.html`, 이 `README.md`의 `one.starlab.kr@gmail.com` 전체. HTML의 `mailto:` 주소와 표시 주소를 함께 수정 |
 | Google 인증 태그 | `index.html` 상단 `<head>`의 `GOOGLE SEARCH CONSOLE` 주석 바로 아래 |
 | 소개와 개발 분야 | `index.html`의 `about`, `work` 섹션 |
 | 디자인·색상 | `assets/styles.css`의 `:root` 및 각 스타일 |
